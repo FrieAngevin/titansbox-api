@@ -1,2 +1,2 @@
 # titansbox-api
-A collection of anime gifs for Titan API
+A collection of gifs for Titan API
